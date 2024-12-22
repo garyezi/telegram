@@ -2,7 +2,7 @@ package tg_cache
 
 import (
 	"errors"
-	"github.com/garyezi/telegram/tg_client"
+	"github.com/mxcker/telegram/tg_client"
 	"sync"
 )
 

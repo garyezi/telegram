@@ -1,4 +1,4 @@
-module github.com/garyezi/telegram
+module github.com/mxcker/telegram
 
 go 1.23.4
 
